@@ -5,7 +5,7 @@ import github from '../assets/github.svg';
 
 const Footer = () => {
   return (
-    <footer className="flex flex-row mb-5 bg-[#011627] border border-[#1E2D3D] rounded-b-lg md:mb-10 sm:justify-between" >
+    <footer className="flex flex-row bg-[#011627] border border-[#1E2D3D] rounded-b-lg sm:justify-between" >
       <div className="flex flex-row justify-center items-center"> 
         <p className="p-4 border-r border-[#1E2D3D]">find me in:</p>
         <img className="p-4 border-r border-[#1E2D3D]" src={twiter}  />

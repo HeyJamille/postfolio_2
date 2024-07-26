@@ -9,6 +9,11 @@
   font-family: "Fira Code", monospace;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 :root {
   background-color: black;
 }
