@@ -3,7 +3,7 @@ import SnakeGame from "../components/SnakeGamer";
 
 const Home = () => {
   return (
-    <article className="p-5 py-[100px] bg-[#011627] border border-[#1E2D3D] sm:flex sm:flex-col sm:justify-center sm:items-center sm:gap-10 lg:flex-row lg:gap-20">
+    <article className="p-5 pt-[100px] h-screen bg-[#011627] border border-[#1E2D3D] sm:flex sm:flex-col sm:justify-center sm:items-center sm:gap-10 sm:pt-5 lg:flex-row lg:gap-20">
       <section className="flex flex-col gap-44 sm:gap-7">
         <div> 
           <h2 className="text-[16px]">Hi all. I am</h2>
