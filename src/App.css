@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira Code", monospace;
+}
+
+:root {
+  background-color: black;
+}
+
+h1 {
+  font-size: 30px;
+  color: #E5E9F0;
+}
+
+h2 {
+  font-size: 20px;
+  color: #E5E9F0;
+}
+
+p {
+  font-size: 14px;
+  color: #607B96;
+}
+
